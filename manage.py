@@ -4,7 +4,7 @@ import streamlit as st
 from googleapiclient.discovery import build
 
 # This is the default and can be omitted
-openai.api_key = "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"
+openai.api_key = "sk-proj-gqeqkdWE1TayrW5m9Q0dT3BlbkFJxW3EZAv2CMF9X3DFQZ9b"
 
 # YouTube Data API key
 youtube_api_key = "AIzaSyBmgntY15pAsEPiCBfurPv-mpgra_wu_Io"  # Replace with your YouTube Data API key
